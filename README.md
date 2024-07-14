@@ -24,10 +24,10 @@ ThermoTag is an Android application that includes login and registration functio
 ## Project Structure
 ```sh
 ThermoTag-with-Login-and-Registration-Page-with-Retrofit-and-MySQL/
-├── android/
+├── master/ (Android Studio)
 │ ├── app/
 │ └── ...
-├── backend/
+├── main/ (backend)
 │ ├── login.php
 │ ├── register.php
 │ └── ...
