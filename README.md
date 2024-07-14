@@ -9,7 +9,7 @@
   - [Android Project](#android-project)
   - [PHP Backend](#php-backend)
 - [Usage](#usage)
-- [License](#license)
+- [Database Structure](#database-structure)
 
 ## Introduction
 ThermoTag is an Android application that includes login and registration functionality, implemented using Retrofit and MySQL. The backend is built with PHP and utilizes MySQL for the database.
@@ -70,12 +70,12 @@ DB_PORT=______
 ```
 4. Start your local server (e.g., XAMPP) and ensure the backend PHP files are accessible.
 
-Usage
+## Usage
 1. Register a new user using the Android app.
 2. Log in with the registered credentials.
 3. The Android app communicates with the PHP backend to authenticate and manage user sessions.
 
-Struktur Tabel dalam Database
+## Database Structure
 Tambahkan bagian ini setelah bagian Setup atau Usage:
 ## Database Structure
 
