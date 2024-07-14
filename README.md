@@ -1,4 +1,4 @@
-# ThermoTag with Login and Registration Page using Retrofit and MySQL
+# THERE ARE 2 BRANCHES ON THIS PROJECT: MAIN is for backend, MASTER is for frontend
 
 ## Table of Contents
 - [Introduction](#introduction)
