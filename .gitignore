@@ -1,0 +1,10 @@
+# Ignore .env file
+.env
+
+# Ignore vendor directory (if using Composer)
+vendor/
+
+# Ignore other sensitive or unnecessary files
+*.log
+*.cache
+*.tmp
