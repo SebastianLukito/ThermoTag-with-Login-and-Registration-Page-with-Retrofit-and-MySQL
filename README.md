@@ -22,7 +22,7 @@ ThermoTag is an Android application that includes login and registration functio
 - Responsive User Interface
 
 ## Project Structure
-
+```sh
 ThermoTag-with-Login-and-Registration-Page-with-Retrofit-and-MySQL/
 ├── android/
 │ ├── app/
@@ -34,7 +34,7 @@ ThermoTag-with-Login-and-Registration-Page-with-Retrofit-and-MySQL/
 ├── .gitignore
 ├── README.md
 └── ...
-
+```
 
 ## Technologies Used
 - **Android**: Java, Retrofit
